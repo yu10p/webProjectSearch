@@ -14,6 +14,7 @@ v0.1
 <p>&emsp;&emsp;1. 改善關鍵字必須完全正確才能取的資料<p>
 
 <h3>專案資料夾說明:</h3>
+---
 <p>&emsp;&emsp;html 存放hmtl</p>
 <p>&emsp;&emsp;&emsp;&emsp;seatch.html 搜尋欄的簡易html</p>
 <br>
